@@ -24,7 +24,7 @@ Here's a step-by-step guide describing what is shown in the example above:
 
 ## Installation
 
-1. Save the script provided above to a `.lua` file, for example,
+1. Save the [script provided above](winterveils_trimmed_layer_export.lua) to a `.lua` file, for example,
    `winterveils_trimmed_layer_export.lua`.
 2. Place the `.lua` file in your Aseprite scripts directory.
 3. Restart Aseprite or refresh the scripts list.
